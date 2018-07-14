@@ -1,0 +1,6 @@
+/Users/bryceligaya/Desktop/Document-Merger/Document-Merger/bin/Debug/Document-Merger.exe
+/Users/bryceligaya/Desktop/Document-Merger/Document-Merger/bin/Debug/Document-Merger.pdb
+/Users/bryceligaya/Desktop/Document-Merger/Document-Merger/obj/x86/Debug/Document-Merger.csprojResolveAssemblyReference.cache
+/Users/bryceligaya/Desktop/Document-Merger/Document-Merger/obj/x86/Debug/Document-Merger.csproj.CoreCompileInputs.cache
+/Users/bryceligaya/Desktop/Document-Merger/Document-Merger/obj/x86/Debug/Document-Merger.exe
+/Users/bryceligaya/Desktop/Document-Merger/Document-Merger/obj/x86/Debug/Document-Merger.pdb
